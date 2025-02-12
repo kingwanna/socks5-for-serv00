@@ -28,6 +28,8 @@ pm2 unstartup && pm2 delete all && npm uninstall -g pm2
   {"username": "cmliussss2018", "password": "4))@cRP%HtN8AryHlh^#", "panel": "panel7.serv00.com", "ssh": "s7.serv00.com"},
   {"username": "4r885wvl", "password": "%Mg^dDMo6yIY$dZmxWNy", "panel": "panel.ct8.pl", "ssh": "s1.ct8.pl"}
 ]
+
+「」
 ```
 
 # 致谢
